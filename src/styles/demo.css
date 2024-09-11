@@ -1,0 +1,38 @@
+/* Single Character Page Styles */
+
+.character-details {
+    padding: 20px;
+}
+
+.character-details h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #343a40;
+}
+
+.character-details p {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.table {
+    width: 100%;
+    margin-top: 20px;
+    border-top: 2px solid #dc3545;
+}
+
+.table th {
+    font-weight: bold;
+    color: #dc3545;
+}
+
+.table td {
+    padding: 8px;
+    color: #343a40;
+}
